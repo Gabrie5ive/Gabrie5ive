@@ -1,5 +1,5 @@
 - 🚩​ Olá, me chamo Gabrie5ive
-- 🏴​ Interessado na permanência do Santos na Série A
+- 🏴​ Santos F.C
 
 <!---
 Gabrie5ive/Gabrie5ive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
