@@ -1,5 +1,4 @@
-- 🚩​ Olá, me chamo Gabrie5ive
-- 🏴​ Santos F.C
+
 
 <!---
 Gabrie5ive/Gabrie5ive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
